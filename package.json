@@ -1,0 +1,20 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "simple server creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhi8404/Nodejs-Server.git"
+  },
+  "author": "Nidhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhi8404/Nodejs-Server/issues"
+  },
+  "homepage": "https://github.com/nidhi8404/Nodejs-Server#readme"
+}
